@@ -18,3 +18,5 @@ val selected = shared.getString("key_set_item","")
 
 CheckBoxPreference와 SwitchPreference는 저장값이 참과 거짓인 Boolean 타입이기 때문에 getBoolean()메서드로 사용할 수 있고 EditPreference와 ListPreference는 입력된 값과 선택된 값 모두
 getString()메서드로 사용가능.
+
+출처: 이것이 안드로이드다,고돈호 지음, 한빛 미디어
