@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> //ListPreference에서 사용할 리소스 파일을 생성하고 목록 데이터를 입력합니다.
+    <string-array name="action_list">
+        <item>action 1</item>
+        <item>action 2</item>
+        <item>action 3</item>
+        <item>action 4</item>
+    </string-array>
+    <string-array name="action_values">
+        <item>value 1</item>
+        <item>value 2</item>
+        <item>value 3</item>
+        <item>value 4</item>
+    </string-array>
+</resources>
