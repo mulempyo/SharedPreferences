@@ -24,7 +24,7 @@
 
     <PreferenceCategory
         android:title="옵션 설정"
-        appLiconSpaceReserved = "false">
+        app:iconSpaceReserved = "false">
 
         <EditTextPreference
             android:key="key_edit_name"
